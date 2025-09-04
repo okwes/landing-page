@@ -1,0 +1,1 @@
+Simple landing page about me. See at [wesle.net](https://wesle.net). Currently self-hosted using Nginx and Let's Encrypt despite Github Pages almost certainly a better fit for this use. For a more personal view see some of my photograpy at [gallery.wesle.net](https://gallery.wesle.net) and production photos of shows I designed at [here](https://wesle.net/alice)!
